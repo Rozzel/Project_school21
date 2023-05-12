@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "df029a055793d41b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1438a246b71e0e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f45b7dcd04166c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика/Акселератор/Пример модальных окон.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02495ee51ed08341",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e34a931b41cff99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc4de7b74304d461",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db4cb884d594d953",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dab9c68b3514b216",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "7e6076bb073e3327",
+    "type": "split",
+    "children": [
+      {
+        "id": "b250d05c39ef8bdb",
+        "type": "tabs",
+        "dimension": 65.86538461538461,
+        "children": [
+          {
+            "id": "5a17060828380765",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87152da61e66d1ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Практика/Акселератор/Пример модальных окон.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d708c29be6e986a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Практика/Акселератор/Пример модальных окон.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "217847a07b9e6ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Практика/Акселератор/Пример модальных окон.md"
+              }
+            }
+          },
+          {
+            "id": "b3c6de1739ed383a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0e4439dc7fff2ea5",
+        "type": "tabs",
+        "dimension": 34.13461538461539,
+        "children": [
+          {
+            "id": "f1481bbf485c5d08",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Практика/Акселератор/Пример модальных окон.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.9,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.38230109687700164,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b8f45b7dcd04166c",
+  "lastOpenFiles": [
+    "Daily/2023-03-28.md",
+    "Daily/2023-03-25.md",
+    "Daily/2023-03-23.md",
+    "Daily/2023-03-21.md",
+    "Daily/2023-03-20.md",
+    "Daily/2023-03-19.md",
+    "Daily/2023-03-18.md",
+    "Daily/2023-03-17.md",
+    "Daily/2023-03-15.md",
+    "Daily/2023-03-14.md",
+    "Daily/2023-03-27.md",
+    "Daily/2023-03-26.md",
+    "Практика/Акселератор/Разрешения Брейкпоинты.md",
+    "Markdown/Выноски.md",
+    "Практика/Акселератор/picture.md",
+    "_templater/Tag.md",
+    "Daily/2023-03-24.md",
+    "Daily/Без названия 1.canvas",
+    "Daily/Без названия.canvas",
+    "Практика/Акселератор/Project/Smart Device/Чеклист.md",
+    "_templater/Выноска__Вопрос.md",
+    "_templater/Выноска__Инфо 1.md",
+    "ChatGPT/button div.md",
+    "ChatGPT/company проверка на БЭМ.md",
+    "ChatGPT/Без названия 1.md",
+    "Daily/2023-03-22.md",
+    "ChatGPT/Без названия.md",
+    "ChatGPT/Плавность анимации css при смене цвета.md",
+    "SCSS",
+    "SASS",
+    "Без названия",
+    "ChatGPT",
+    "ha-SmartDevice/source/index.html",
+    "ha-SmartDevice/source/js/modules/form-validate/init-phone-input.js",
+    "ha-SmartDevice/source/sass/global/reboot.scss",
+    "ha-SmartDevice/source/js/utils/focus-lock.js",
+    "ha-SmartDevice/source/fonts/rouble.woff2",
+    "ha-SmartDevice/source/js/modules/form-validate/form.js",
+    "ha-SmartDevice/source/img/sprite/icon-close.svg",
+    "ha-SmartDevice/source/img/svg/not-needed-in-sprite.svg",
+    "Практика/Акселератор/Без названия.canvas",
+    "Практика/Акселератор/Регламент/_attachments/Pasted image 20230310210009.png",
+    "Практика/Акселератор/Регламент/_attachments/Pasted image 20230310205524.png",
+    "Практика/Акселератор/_attachments/Pasted image 20230310210009.png",
+    "Практика/Акселератор/_attachments/Pasted image 20230310205524.png",
+    "School 21/School 21--projects/T09D15-0/T09D15--gylbertb/misc/rus/images/day9_chair.png",
+    "School 21/School 21--projects/T09D15-0/T09D15-0-master/misc/eng/images/day9_door.png",
+    "School 21/School 21--projects/T09D15-0/T09D15-0-master/misc/eng/images/day9_chair.png",
+    "School 21/School 21--projects/T09D15-0/T09D15-0-master/misc/eng/images/GOTO.png",
+    "School 21/School 21--projects/Canvas.canvas"
+  ]
+}

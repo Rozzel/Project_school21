@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "df029a055793d41b",
+    "type": "split",
+    "children": [
+      {
+        "id": "50814362e489f9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60fa2a77cbb59dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/Авто комит.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b3a2d1baeaef0a5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fbb312b60b5d1c0c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "70d1a1bbed45dff5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#CSS",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a9201db3228db280",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8ffd65da26f2f50f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ad237daad99b5f22",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed1e5f16499fa540",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily/Авто комит.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6d9e70c7b6dbcc3d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily/Авто комит.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0486e298c75a6737",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily/Авто комит.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "c60fa2a77cbb59dc",
+  "lastOpenFiles": [
+    "Daily/Авто комит.md",
+    "Daily/Бот для telegram.md",
+    "Unix/Docker/0. Docker.md",
+    "Daily/rclone.md",
+    "Unix/Docker/Установка Docker в Linux.md",
+    "Schooll 21--exam/Ex_07_04/Ex_07_04.md",
+    "Daily/rclone 2023-02-24.md",
+    "School 21/C/Литература - Введение в язык C.md",
+    "Фронтенд-разработчик/Подготовка вёрстки для CMS/1. Обзор популярных систем управления контентом/1.8. Bitrix - шаблон.md",
+    "Фронтенд-разработчик/Подготовка вёрстки для CMS/1. Обзор популярных систем управления контентом/1. Обзор популярных CMS - систем управления контентом.md",
+    "Фронтенд-разработчик/БЭМ/0. Разметка по БЭМ.md",
+    "School 21/Event/Presentation.md",
+    "Git/Команды/GitHub  SSH.md",
+    "Фронтенд-разработчик/Подготовка вёрстки для CMS/3. Работа с генерируемым контентом. Графика/3.6. Подготовка графики для интеграции.md",
+    "Фронтенд-разработчик/Подготовка вёрстки для CMS/3. Работа с генерируемым контентом. Графика/3. Работа с генерируемым контентом. Графика.md",
+    "Фронтенд-разработчик/Подготовка вёрстки для CMS/0. Подготовка вёрстки для CMS.md",
+    "School 21/gcc.md",
+    "School 21/C/Указатели.md"
+  ]
+}

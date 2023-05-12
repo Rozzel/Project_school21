@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./_attachments",
+  "newLinkFormat": "relative",
+  "trashOption": "local",
+  "newFileFolderPath": "Daily",
+  "userIgnoreFilters": [
+    "_attachments"
+  ],
+  "spellcheck": true
+}
