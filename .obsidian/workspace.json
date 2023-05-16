@@ -11,8 +11,12 @@
             "id": "ff0d17fa436179bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Конспекты/Разобрать/Начальный Makefile.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Конспекты/Разобрать/Начальный Makefile.md"
+              }
             }
           },
           {
@@ -109,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Конспекты/Разобрать/Начальный Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Конспекты/Разобрать/Начальный Makefile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Конспекты/Разобрать/Начальный Makefile.md"
+              }
             }
           },
           {
@@ -159,6 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Конспекты/Разобрать/Начальный Makefile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,9 +215,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc4de7b74304d461",
+  "active": "ff0d17fa436179bc",
   "lastOpenFiles": [
+    "Конспекты/Разобрать/c11.md",
     "Конспекты/Разобрать/gcc.md",
+    "Конспекты/Разобрать/LDFLAGS Флаги.md",
+    "Конспекты/Разобрать/Начальный Makefile.md",
+    "Конспекты/c11.md",
     "Конспекты/ASCII/0x0a перевод строки.md",
     "Конспекты/ASCII",
     "Конспекты/Git/Команды/user..md",
@@ -245,10 +260,6 @@
     "Конспекты/Unix/Console/gcc/Компилятор GCC.md",
     "Конспекты/Unix/Console/gcc/Алиасы в bash.md",
     "Конспекты/Unix/Console/gcc/watcher.md",
-    "Конспекты/Unix/Console/gcc/Testing.md",
-    "Конспекты/Unix/Console/gcc/Modules.md",
-    "Конспекты/Unix/Console/gcc/gcc.md",
-    "Конспекты/Unix/Console/gcc/gcc Ubuntu.md",
     "Конспекты/Unix/Console/gcc",
     "Конспекты/Unix/Console",
     "Конспекты/Unix",
