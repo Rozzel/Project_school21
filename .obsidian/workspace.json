@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cfd5554427e47c61",
+        "id": "e0658aa5434da35e",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb7f5144c219862",
+            "id": "ff0d17fa436179bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C3_SimpleBashUtils-1/ТЗ.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5fc59d9d609b2427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C3_SimpleBashUtils-1/Задачи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1796bd581dd79a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C3_SimpleBashUtils-1/Особенности.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89bea931b292ecf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-05-11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,6 +85,14 @@
         "dimension": 65.86538461538461,
         "children": [
           {
+            "id": "189a136a878ae602",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "5a17060828380765",
             "type": "leaf",
             "state": {
@@ -142,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C3_SimpleBashUtils-1/Задачи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C3_SimpleBashUtils-1/Задачи.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C3_SimpleBashUtils-1/Задачи.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "0e4439dc7fff2ea5",
@@ -197,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C3_SimpleBashUtils-1/Задачи.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,59 +204,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fc59d9d609b2427",
+  "active": "dc4de7b74304d461",
   "lastOpenFiles": [
-    "C3_SimpleBashUtils-1/Особенности.md",
-    "Daily/2023-05-11.md",
-    "C3_SimpleBashUtils-1/Задачи.md",
-    "C3_SimpleBashUtils-1/ТЗ.md",
-    "Конспекты/Начальный makefile.md",
-    "Конспекты/c11.md",
-    "Конспекты",
-    "_templater/Сноска_Вверх.md",
-    "_templater/taskList.md",
-    "_templater/Tag__C.md",
+    "Конспекты/Разобрать/gcc.md",
+    "Конспекты/ASCII/0x0a перевод строки.md",
+    "Конспекты/ASCII",
+    "Конспекты/Git/Команды/user..md",
+    "Конспекты/Git/Команды/GitHub  SSH.md",
+    "Конспекты/Git/Команды",
+    "Конспекты/Git/_attachments/Pasted image 20221110204851.png",
+    "Конспекты/Git/_attachments/Pasted image 20221104210820.png",
+    "Конспекты/Git/_attachments/Pasted image 20221104210805.png",
+    "Конспекты/Git/_attachments/Pasted image 20221104210759.png",
+    "Конспекты/Git/_attachments/Pasted image 20221104210631.png",
+    "Конспекты/Git/_attachments/Pasted image 20221019120340.png",
+    "Конспекты/Git/_attachments/Pasted image 20221019120330.png",
+    "Конспекты/Git/_attachments/Pasted image 20221019120323.png",
+    "Конспекты/Git/_attachments/Pasted image 20221019120315.png",
+    "Конспекты/Git/_attachments/Pasted image 20221019120300.png",
+    "Конспекты/Git/ssh.md",
+    "Конспекты/Git/Работа с ветками.md",
+    "Конспекты/Git/Работа с Git через консоль.md",
+    "Конспекты/Git/Перенести изменения одной ветки в другую.md",
+    "Конспекты/Git/_attachments",
+    "Конспекты/Git/git.md",
+    "Конспекты/Git/Git Словарик.md",
+    "Конспекты/Git/Git for macOS.md",
+    "Конспекты/Git/Git - Визуальные прграммы.md",
+    "Конспекты/Git/Git - Book.md",
+    "Конспекты/Git",
+    "Конспекты/Unix/Zsh/Zsh и Oh My Zsh - настройка тем и плагинов.md",
+    "Конспекты/Unix/Zsh",
+    "Конспекты/Unix/Termux/Termux uninstall nvm.md",
+    "Конспекты/Unix/Termux/libssl.so.3.md",
+    "Конспекты/Unix/Termux/Lazygit.md",
+    "Конспекты/Unix/Termux/install nvm in Termux.md",
+    "Конспекты/Unix/Termux/backup.md",
+    "Конспекты/Unix/Termux",
+    "Конспекты/Unix/Console/_attachments",
+    "Конспекты/Unix/Console/gcc/Компилятор GCC.md",
+    "Конспекты/Unix/Console/gcc/Алиасы в bash.md",
+    "Конспекты/Unix/Console/gcc/watcher.md",
+    "Конспекты/Unix/Console/gcc/Testing.md",
+    "Конспекты/Unix/Console/gcc/Modules.md",
+    "Конспекты/Unix/Console/gcc/gcc.md",
+    "Конспекты/Unix/Console/gcc/gcc Ubuntu.md",
+    "Конспекты/Unix/Console/gcc",
+    "Конспекты/Unix/Console",
+    "Конспекты/Unix",
     "School 21/Projects/Canvas.canvas",
-    "Docker/Команды Docker.md",
     "School 21/Projects/Canvas (2).canvas",
-    "School 21/Projects/Карта проектов.md",
-    "School 21/Материалы/Peer Review slot.md",
-    "Daily/Zsh и Oh My Zsh - настройка тем и плагинов.md",
-    "School 21/Материалы/Repository structure.md",
-    "School 21/Материалы/gcc.md",
-    "School 21/Материалы/Game of Life.md",
-    "School 21/Материалы/Выучить.md",
-    "School 21/Материалы/_attachments/длятебя.pdf",
-    "School 21/Материалы/19 волна/Вводные данные.md",
-    "School 21/Event/Material/README.md",
-    "School 21/Map/School 21 mindMap.md",
-    "Docker/alpine версия образа.md",
-    "Docker/0. Docker.md",
-    "Фронтенд-разработчик/Учебник по Git и GitHub/0. Учебник по Git и GitHub.md",
-    "Фронтенд-разработчик/Учебник по Git и GitHub/1. Система контроля версий Git.md",
-    "Фронтенд-разработчик/Учебник по Git и GitHub/0. Учебник по Git и GitHub (2).md",
-    "Node.js/Express.js.md",
-    "School 21/Материалы/19 волна/_attachments/Pasted image 20230418181834.png",
-    "School 21/Материалы/19 волна/_attachments/Pasted image 20230418181723.png",
-    "School 21/Материалы/19 волна/_attachments/Pasted image 20230418181648.png",
-    "School 21/Материалы/19 волна/_attachments/Pasted image 20230418181415.png",
-    "School 21/Материалы/19 волна/_attachments/Pasted image 20230418181147.png",
-    "School 21/Материалы/19 волна/_attachments/Pasted image 20230418181056.png",
-    "School 21/Материалы/19 волна/_attachments",
-    "School 21/Материалы/19 волна",
-    "Практика/Акселератор/Project/Daily",
-    "Daily/_attachments/Pasted image 20230402162610.png",
-    "Daily/_attachments/Pasted image 20230402165312.png",
     "Без названия.canvas",
-    "Daily/_attachments/Pasted image 20230402163348.png",
-    "Daily/_attachments",
     "Daily/Без названия 1.canvas",
     "Daily/Без названия.canvas",
-    "SCSS",
-    "SASS",
-    "ChatGPT",
-    "Практика/Акселератор/Project/Smart Device/ha-SmartDevice/source/index.html",
-    "Практика/Акселератор/Project/Smart Device/ha-SmartDevice/source/img/sprite/icon-close.svg",
     "Практика/Акселератор/Без названия.canvas"
   ]
 }

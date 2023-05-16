@@ -1,0 +1,2 @@
+- termux
+    - [How to fix library "libssl.so.3" not found: needed by main executable in termux](https://www.youtube.com/watch?v=TOCpfccvEvM)
