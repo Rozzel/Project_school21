@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0658aa5434da35e",
+        "id": "d1d2b3f95330eb6c",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0d17fa436179bc",
+            "id": "22d89ca05721d346",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Конспекты/Makefile/Automatic Variables.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -216,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff0d17fa436179bc",
+  "active": "dc4de7b74304d461",
   "lastOpenFiles": [
     "Конспекты/Флаги/-std=c11.md",
     "C3_SimpleBashUtils-1/Особенности.md",
