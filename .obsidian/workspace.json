@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Разобрать/Начальный Makefile.md",
+                "file": "Конспекты/Makefile/Automatic Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 332.5
   },
   "right": {
     "id": "7e6076bb073e3327",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспекты/Разобрать/Начальный Makefile.md"
+                "file": "Конспекты/Makefile/Automatic Variables.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конспекты/Разобрать/Начальный Makefile.md",
+                "file": "Конспекты/Makefile/Automatic Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конспекты/Разобрать/Начальный Makefile.md",
+                "file": "Конспекты/Makefile/Automatic Variables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспекты/Разобрать/Начальный Makefile.md"
+                "file": "Конспекты/Makefile/Automatic Variables.md"
               }
             }
           },
@@ -156,7 +156,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0e4439dc7fff2ea5",
@@ -169,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Конспекты/Разобрать/Начальный Makefile.md",
+                "file": "Конспекты/Makefile/Automatic Variables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,16 +218,43 @@
   },
   "active": "ff0d17fa436179bc",
   "lastOpenFiles": [
-    "Конспекты/Разобрать/c11.md",
-    "Конспекты/Разобрать/gcc.md",
-    "Конспекты/Разобрать/LDFLAGS Флаги.md",
-    "Конспекты/Разобрать/Начальный Makefile.md",
-    "Конспекты/c11.md",
-    "Конспекты/ASCII/0x0a перевод строки.md",
-    "Конспекты/ASCII",
-    "Конспекты/Git/Команды/user..md",
-    "Конспекты/Git/Команды/GitHub  SSH.md",
-    "Конспекты/Git/Команды",
+    "Конспекты/Флаги/-std=c11.md",
+    "C3_SimpleBashUtils-1/Особенности.md",
+    "C3_SimpleBashUtils-1/Задачи.md",
+    "C3_SimpleBashUtils-1/ТЗ.md",
+    "Конспекты/Флаги/-Werror.md",
+    "Конспекты/Флаги/-c.md",
+    "Конспекты/Флаги/-Wextra.md",
+    "Конспекты/Флаги/-Wall.md",
+    "Конспекты/Флаги/-o.md",
+    "Конспекты/Флаги/-O2.md",
+    "Конспекты/Флаги/-0.index LDFLAGS Флаги.md",
+    "Конспекты/C language/Лексемы в С.md",
+    "Конспекты/C language/Операторы в С.md",
+    "Конспекты/Makefile/Automatic Variables.md",
+    "Конспекты/Makefile/Начальный Makefile.md",
+    "Конспекты/Makefile/wildcard Генирация имен файлов.md",
+    "Конспекты/Makefile/%.o %.c.md",
+    "Конспекты/Makefile/Notion21.md",
+    "Конспекты/Makefile/Покрытие кода и тесты.md",
+    "Daily/2023-05-11.md",
+    "Pasted image 20230308220218.png.md",
+    "_templater/Выноска__Вопрос.md",
+    "Конспекты/C language/Структкры.md",
+    "Конспекты/C language/Подключение библиотек.md",
+    "Конспекты/Makefile/Без названия.canvas",
+    "Конспекты/C language/Регулярные выражения scanf.md",
+    "Конспекты/C language/Метки и оператор goto.md",
+    "Конспекты/C language/Структуры",
+    "Конспекты/C language/Указатели/src/call-value",
+    "Конспекты/C language/Указатели/src/call-link",
+    "Конспекты/C language/Указатели/src/Makefile",
+    "Конспекты/C language/Указатели/src/call-link.c",
+    "Конспекты/C language/Указатели/src/call-value.c",
+    "Конспекты/C language/Указатели/src/Вызов по cсылке",
+    "Конспекты/C language/Указатели/src/Вызов посылки",
+    "Конспекты/C language/Указатели/src",
+    "Конспекты/C language/Указатели/Вызов по ссылке",
     "Конспекты/Git/_attachments/Pasted image 20221110204851.png",
     "Конспекты/Git/_attachments/Pasted image 20221104210820.png",
     "Конспекты/Git/_attachments/Pasted image 20221104210805.png",
@@ -237,32 +265,6 @@
     "Конспекты/Git/_attachments/Pasted image 20221019120323.png",
     "Конспекты/Git/_attachments/Pasted image 20221019120315.png",
     "Конспекты/Git/_attachments/Pasted image 20221019120300.png",
-    "Конспекты/Git/ssh.md",
-    "Конспекты/Git/Работа с ветками.md",
-    "Конспекты/Git/Работа с Git через консоль.md",
-    "Конспекты/Git/Перенести изменения одной ветки в другую.md",
-    "Конспекты/Git/_attachments",
-    "Конспекты/Git/git.md",
-    "Конспекты/Git/Git Словарик.md",
-    "Конспекты/Git/Git for macOS.md",
-    "Конспекты/Git/Git - Визуальные прграммы.md",
-    "Конспекты/Git/Git - Book.md",
-    "Конспекты/Git",
-    "Конспекты/Unix/Zsh/Zsh и Oh My Zsh - настройка тем и плагинов.md",
-    "Конспекты/Unix/Zsh",
-    "Конспекты/Unix/Termux/Termux uninstall nvm.md",
-    "Конспекты/Unix/Termux/libssl.so.3.md",
-    "Конспекты/Unix/Termux/Lazygit.md",
-    "Конспекты/Unix/Termux/install nvm in Termux.md",
-    "Конспекты/Unix/Termux/backup.md",
-    "Конспекты/Unix/Termux",
-    "Конспекты/Unix/Console/_attachments",
-    "Конспекты/Unix/Console/gcc/Компилятор GCC.md",
-    "Конспекты/Unix/Console/gcc/Алиасы в bash.md",
-    "Конспекты/Unix/Console/gcc/watcher.md",
-    "Конспекты/Unix/Console/gcc",
-    "Конспекты/Unix/Console",
-    "Конспекты/Unix",
     "School 21/Projects/Canvas.canvas",
     "School 21/Projects/Canvas (2).canvas",
     "Без названия.canvas",

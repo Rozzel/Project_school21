@@ -8,7 +8,9 @@
   "trashOption": "local",
   "newFileFolderPath": "Daily",
   "userIgnoreFilters": [
-    "_attachments"
+    "_attachments",
+    "_templater/"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "showUnsupportedFiles": true
 }
