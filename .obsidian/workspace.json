@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d2b3f95330eb6c",
+        "id": "391372e13fef813a",
         "type": "tabs",
         "children": [
           {
-            "id": "22d89ca05721d346",
+            "id": "a5a51119b8f78b10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C3_SimpleBashUtils-1/ТЗ.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "noti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспекты/Makefile/Automatic Variables.md"
+                "file": "C3_SimpleBashUtils-1/ТЗ.md"
               }
             }
           },
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конспекты/Makefile/Automatic Variables.md",
+                "file": "C3_SimpleBashUtils-1/ТЗ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конспекты/Makefile/Automatic Variables.md",
+                "file": "C3_SimpleBashUtils-1/ТЗ.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспекты/Makefile/Automatic Variables.md"
+                "file": "C3_SimpleBashUtils-1/ТЗ.md"
               }
             }
           },
@@ -152,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e4439dc7fff2ea5",
@@ -166,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Конспекты/Makefile/Automatic Variables.md",
+                "file": "C3_SimpleBashUtils-1/ТЗ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,45 +215,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc4de7b74304d461",
+  "active": "a5a51119b8f78b10",
   "lastOpenFiles": [
-    "Конспекты/Флаги/-std=c11.md",
-    "C3_SimpleBashUtils-1/Особенности.md",
-    "C3_SimpleBashUtils-1/Задачи.md",
-    "C3_SimpleBashUtils-1/ТЗ.md",
-    "Конспекты/Флаги/-Werror.md",
-    "Конспекты/Флаги/-c.md",
-    "Конспекты/Флаги/-Wextra.md",
-    "Конспекты/Флаги/-Wall.md",
-    "Конспекты/Флаги/-o.md",
-    "Конспекты/Флаги/-O2.md",
-    "Конспекты/Флаги/-0.index LDFLAGS Флаги.md",
-    "Конспекты/C language/Лексемы в С.md",
-    "Конспекты/C language/Операторы в С.md",
-    "Конспекты/Makefile/Automatic Variables.md",
-    "Конспекты/Makefile/Начальный Makefile.md",
-    "Конспекты/Makefile/wildcard Генирация имен файлов.md",
-    "Конспекты/Makefile/%.o %.c.md",
-    "Конспекты/Makefile/Notion21.md",
-    "Конспекты/Makefile/Покрытие кода и тесты.md",
+    "C3_SimpleBashUtils-1/verter.md",
+    "Daily/Шаблок структуры.md",
+    "Daily/Ошибки консоли.md",
+    "Daily/2023-06-28.md",
+    "Daily/getline вместо fgets.md",
     "Daily/2023-05-11.md",
-    "Pasted image 20230308220218.png.md",
-    "_templater/Выноска__Вопрос.md",
-    "Конспекты/C language/Структкры.md",
+    "C3_SimpleBashUtils-1/ТЗ.md",
+    "Daily/2023-06-12.md",
+    "Конспекты/Флаги/-pedantic.md",
+    "Конспекты/Флаги/-0.index LDFLAGS Флаги.md",
+    "Конспекты/gcc/ifndef.md",
+    "README.md",
+    "C3_SimpleBashUtils-1/Задачи.md",
+    "C3_SimpleBashUtils-1/gpt.md",
+    "Конспекты/C language/Ветвлени.md",
+    "Конспекты/Makefile/Notion21.md",
+    "C3_SimpleBashUtils-1/check.txt",
+    "C3_SimpleBashUtils-1/check.textClipping",
+    "C3_SimpleBashUtils-1/test/chmod исполняемые права.md",
+    "Конспекты/Unix/find.md",
+    "Конспекты/Unix/Console/cat.md",
+    "Конспекты/Тесты/leaks.md",
+    "Конспекты/Тесты/leaks MallocStackLogging.md",
+    "Конспекты/Тесты/Без названия.md",
+    "Конспекты/Unix/Console/gcc/Testing.md",
     "Конспекты/C language/Подключение библиотек.md",
+    "Конспекты/C language/const Квалификатор.md",
+    "Конспекты/C language/Структкры.md",
+    "Конспекты/include/unistd.h",
+    "Конспекты/include/getopt.h",
     "Конспекты/Makefile/Без названия.canvas",
-    "Конспекты/C language/Регулярные выражения scanf.md",
-    "Конспекты/C language/Метки и оператор goto.md",
     "Конспекты/C language/Структуры",
     "Конспекты/C language/Указатели/src/call-value",
     "Конспекты/C language/Указатели/src/call-link",
     "Конспекты/C language/Указатели/src/Makefile",
     "Конспекты/C language/Указатели/src/call-link.c",
     "Конспекты/C language/Указатели/src/call-value.c",
-    "Конспекты/C language/Указатели/src/Вызов по cсылке",
-    "Конспекты/C language/Указатели/src/Вызов посылки",
-    "Конспекты/C language/Указатели/src",
-    "Конспекты/C language/Указатели/Вызов по ссылке",
     "Конспекты/Git/_attachments/Pasted image 20221110204851.png",
     "Конспекты/Git/_attachments/Pasted image 20221104210820.png",
     "Конспекты/Git/_attachments/Pasted image 20221104210805.png",

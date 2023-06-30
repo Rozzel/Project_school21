@@ -1,4 +1,7 @@
-
+---
+tag:
+- C
+---
 ```bash
 leaks -atExit -- ./a.out
 ```
